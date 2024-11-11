@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0798_1_2-PX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>799</xmin>
+          <ymin>13</ymin>
+          <xmax>850</xmax>
+          <ymax>74</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>518</xmin>
+          <ymin>93</ymin>
+          <xmax>753</xmax>
+          <ymax>203</ymax>
+      </bndbox>
+  </object>
+</annotation>

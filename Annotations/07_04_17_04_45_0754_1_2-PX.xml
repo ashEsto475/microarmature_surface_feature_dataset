@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0754_1_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>563</xmin>
+          <ymin>55</ymin>
+          <xmax>661</xmax>
+          <ymax>118</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>383</xmin>
+          <ymin>113</ymin>
+          <xmax>539</xmax>
+          <ymax>206</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>391</xmin>
+          <ymin>128</ymin>
+          <xmax>513</xmax>
+          <ymax>207</ymax>
+      </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_29_15_24_12_0088_6_2-PX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>740</xmin>
+          <ymin>107</ymin>
+          <xmax>849</xmax>
+          <ymax>170</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>809</xmin>
+          <ymin>8</ymin>
+          <xmax>850</xmax>
+          <ymax>81</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>551</xmin>
+          <ymin>122</ymin>
+          <xmax>726</xmax>
+          <ymax>211</ymax>
+      </bndbox>
+  </object>
+</annotation>

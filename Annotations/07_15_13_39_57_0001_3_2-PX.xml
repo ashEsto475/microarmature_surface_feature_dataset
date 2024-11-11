@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_13_39_57_0001_3_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>706</xmin>
+          <ymin>9</ymin>
+          <xmax>806</xmax>
+          <ymax>75</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>476</xmin>
+          <ymin>41</ymin>
+          <xmax>730</xmax>
+          <ymax>168</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>478</xmin>
+          <ymin>64</ymin>
+          <xmax>686</xmax>
+          <ymax>171</ymax>
+      </bndbox>
+  </object>
+</annotation>

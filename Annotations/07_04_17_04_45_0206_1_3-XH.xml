@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0206_1_3-XH.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>444</xmin>
+          <ymin>182</ymin>
+          <xmax>850</xmax>
+          <ymax>234</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>693</xmin>
+          <ymin>84</ymin>
+          <xmax>785</xmax>
+          <ymax>142</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>66</xmin>
+          <ymin>156</ymin>
+          <xmax>314</xmax>
+          <ymax>302</ymax>
+      </bndbox>
+  </object>
+</annotation>

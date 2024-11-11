@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>06_28_14_24_32_0515_4_3-XH_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>666</xmin>
+          <ymin>102</ymin>
+          <xmax>849</xmax>
+          <ymax>163</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>775</xmin>
+          <ymin>3</ymin>
+          <xmax>848</xmax>
+          <ymax>62</ymax>
+      </bndbox>
+  </object>
+</annotation>

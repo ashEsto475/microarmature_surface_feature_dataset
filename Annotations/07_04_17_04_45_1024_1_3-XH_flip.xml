@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_1024_1_3-XH_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>501</xmin>
+          <ymin>127</ymin>
+          <xmax>850</xmax>
+          <ymax>191</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>753</xmin>
+          <ymin>39</ymin>
+          <xmax>846</xmax>
+          <ymax>99</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>195</xmin>
+          <ymin>101</ymin>
+          <xmax>418</xmax>
+          <ymax>217</ymax>
+      </bndbox>
+  </object>
+</annotation>

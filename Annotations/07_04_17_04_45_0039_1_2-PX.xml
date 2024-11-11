@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0039_1_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>559</xmin>
+          <ymin>200</ymin>
+          <xmax>850</xmax>
+          <ymax>257</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>646</xmin>
+          <ymin>94</ymin>
+          <xmax>747</xmax>
+          <ymax>155</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>310</xmin>
+          <ymin>185</ymin>
+          <xmax>582</xmax>
+          <ymax>292</ymax>
+      </bndbox>
+  </object>
+</annotation>

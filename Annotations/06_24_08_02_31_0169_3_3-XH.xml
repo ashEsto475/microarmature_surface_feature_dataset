@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_24_08_02_31_0169_3_3-XH.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>411</xmin>
+          <ymin>169</ymin>
+          <xmax>578</xmax>
+          <ymax>223</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>675</xmin>
+          <ymin>64</ymin>
+          <xmax>768</xmax>
+          <ymax>117</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>109</xmin>
+          <ymin>137</ymin>
+          <xmax>281</xmax>
+          <ymax>262</ymax>
+      </bndbox>
+  </object>
+</annotation>

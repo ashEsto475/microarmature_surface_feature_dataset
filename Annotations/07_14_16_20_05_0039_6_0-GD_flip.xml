@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_14_16_20_05_0039_6_0-GD_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>728</xmin>
+          <ymin>118</ymin>
+          <xmax>849</xmax>
+          <ymax>186</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>477</xmin>
+          <ymin>189</ymin>
+          <xmax>614</xmax>
+          <ymax>248</ymax>
+      </bndbox>
+  </object>
+</annotation>

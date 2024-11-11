@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_11_09_42_0012_3_1-TX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>764</xmin>
+          <ymin>49</ymin>
+          <xmax>849</xmax>
+          <ymax>121</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>461</xmin>
+          <ymin>170</ymin>
+          <xmax>602</xmax>
+          <ymax>221</ymax>
+      </bndbox>
+  </object>
+</annotation>

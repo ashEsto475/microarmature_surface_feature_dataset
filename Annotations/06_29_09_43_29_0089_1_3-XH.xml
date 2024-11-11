@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_29_09_43_29_0089_1_3-XH.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>526</xmin>
+          <ymin>120</ymin>
+          <xmax>669</xmax>
+          <ymax>184</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>706</xmin>
+          <ymin>50</ymin>
+          <xmax>844</xmax>
+          <ymax>129</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>190</xmin>
+          <ymin>109</ymin>
+          <xmax>349</xmax>
+          <ymax>211</ymax>
+      </bndbox>
+  </object>
+</annotation>

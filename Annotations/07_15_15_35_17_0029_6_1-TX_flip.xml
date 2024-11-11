@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_15_35_17_0029_6_1-TX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>780</xmin>
+          <ymin>4</ymin>
+          <xmax>848</xmax>
+          <ymax>61</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>483</xmin>
+          <ymin>137</ymin>
+          <xmax>642</xmax>
+          <ymax>205</ymax>
+      </bndbox>
+  </object>
+</annotation>

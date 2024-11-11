@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0445_1_1-TX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>407</xmin>
+          <ymin>144</ymin>
+          <xmax>850</xmax>
+          <ymax>210</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>510</xmin>
+          <ymin>8</ymin>
+          <xmax>685</xmax>
+          <ymax>51</ymax>
+      </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder />
+  <filename>07_15_14_36_07_0010_5_1-TX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>509</xmin>
+          <ymin>211</ymin>
+          <xmax>648</xmax>
+          <ymax>248</ymax>
+      </bndbox>
+  </object>
+</annotation>

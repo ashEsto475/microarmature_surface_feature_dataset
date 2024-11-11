@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_15_35_17_0019_5_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>391</xmin>
+          <ymin>122</ymin>
+          <xmax>728</xmax>
+          <ymax>269</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>407</xmin>
+          <ymin>168</ymin>
+          <xmax>673</xmax>
+          <ymax>265</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TB</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>520</xmin>
+          <ymin>196</ymin>
+          <xmax>581</xmax>
+          <ymax>232</ymax>
+      </bndbox>
+  </object>
+</annotation>

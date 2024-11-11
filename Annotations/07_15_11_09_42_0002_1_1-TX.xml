@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_11_09_42_0002_1_1-TX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>722</xmin>
+          <ymin>23</ymin>
+          <xmax>825</xmax>
+          <ymax>96</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>501</xmin>
+          <ymin>108</ymin>
+          <xmax>647</xmax>
+          <ymax>205</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>496</xmin>
+          <ymin>130</ymin>
+          <xmax>606</xmax>
+          <ymax>204</ymax>
+      </bndbox>
+  </object>
+</annotation>

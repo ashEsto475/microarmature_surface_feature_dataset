@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_29_15_24_12_0220_3_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>628</xmin>
+          <ymin>117</ymin>
+          <xmax>850</xmax>
+          <ymax>181</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>771</xmin>
+          <ymin>15</ymin>
+          <xmax>846</xmax>
+          <ymax>71</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>536</xmin>
+          <ymin>116</ymin>
+          <xmax>658</xmax>
+          <ymax>185</ymax>
+      </bndbox>
+  </object>
+</annotation>

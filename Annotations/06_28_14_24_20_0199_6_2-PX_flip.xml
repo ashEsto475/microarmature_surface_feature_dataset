@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_28_14_24_20_0199_6_2-PX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>754</xmin>
+          <ymin>18</ymin>
+          <xmax>845</xmax>
+          <ymax>77</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>522</xmin>
+          <ymin>65</ymin>
+          <xmax>756</xmax>
+          <ymax>206</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>524</xmin>
+          <ymin>94</ymin>
+          <xmax>710</xmax>
+          <ymax>210</ymax>
+      </bndbox>
+  </object>
+</annotation>

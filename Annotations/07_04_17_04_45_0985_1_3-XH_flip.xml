@@ -1,0 +1,26 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0985_1_3-XH_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>235</xmin>
+          <ymin>65</ymin>
+          <xmax>494</xmax>
+          <ymax>174</ymax>
+      </bndbox>
+  </object>
+</annotation>

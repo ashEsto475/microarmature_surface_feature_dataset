@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_27_16_07_08_0090_3_1-TX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>621</xmin>
+          <ymin>133</ymin>
+          <xmax>850</xmax>
+          <ymax>197</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>749</xmin>
+          <ymin>34</ymin>
+          <xmax>844</xmax>
+          <ymax>90</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>491</xmin>
+          <ymin>159</ymin>
+          <xmax>581</xmax>
+          <ymax>216</ymax>
+      </bndbox>
+  </object>
+</annotation>

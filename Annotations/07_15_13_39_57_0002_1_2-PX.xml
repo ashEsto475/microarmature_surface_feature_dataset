@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_13_39_57_0002_1_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>570</xmin>
+          <ymin>132</ymin>
+          <xmax>843</xmax>
+          <ymax>200</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>750</xmin>
+          <ymin>21</ymin>
+          <xmax>840</xmax>
+          <ymax>77</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>492</xmin>
+          <ymin>122</ymin>
+          <xmax>565</xmax>
+          <ymax>218</ymax>
+      </bndbox>
+  </object>
+</annotation>

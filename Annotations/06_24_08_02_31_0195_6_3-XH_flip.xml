@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>06_24_08_02_31_0195_6_3-XH_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>660</xmin>
+          <ymin>43</ymin>
+          <xmax>795</xmax>
+          <ymax>128</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>141</xmin>
+          <ymin>105</ymin>
+          <xmax>317</xmax>
+          <ymax>246</ymax>
+      </bndbox>
+  </object>
+</annotation>

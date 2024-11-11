@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_04_17_04_45_0009_1_3-XH.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>599</xmin>
+          <ymin>79</ymin>
+          <xmax>696</xmax>
+          <ymax>144</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>178</xmin>
+          <ymin>96</ymin>
+          <xmax>246</xmax>
+          <ymax>245</ymax>
+      </bndbox>
+  </object>
+</annotation>

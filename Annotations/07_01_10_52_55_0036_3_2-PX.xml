@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_01_10_52_55_0036_3_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>634</xmin>
+          <ymin>55</ymin>
+          <xmax>715</xmax>
+          <ymax>127</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>467</xmin>
+          <ymin>109</ymin>
+          <xmax>636</xmax>
+          <ymax>198</ymax>
+      </bndbox>
+  </object>
+</annotation>

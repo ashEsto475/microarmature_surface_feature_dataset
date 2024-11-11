@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_13_30_53_0023_3_3-XH.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>666</xmin>
+          <ymin>123</ymin>
+          <xmax>850</xmax>
+          <ymax>180</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>764</xmin>
+          <ymin>34</ymin>
+          <xmax>842</xmax>
+          <ymax>85</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>165</xmin>
+          <ymin>91</ymin>
+          <xmax>374</xmax>
+          <ymax>252</ymax>
+      </bndbox>
+  </object>
+</annotation>

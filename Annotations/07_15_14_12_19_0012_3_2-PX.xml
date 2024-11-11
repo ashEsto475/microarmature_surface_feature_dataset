@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_14_12_19_0012_3_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>709</xmin>
+          <ymin>5</ymin>
+          <xmax>844</xmax>
+          <ymax>87</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>430</xmin>
+          <ymin>112</ymin>
+          <xmax>600</xmax>
+          <ymax>180</ymax>
+      </bndbox>
+  </object>
+</annotation>

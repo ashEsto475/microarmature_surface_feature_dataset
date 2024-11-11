@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_15_35_17_0004_3_0-GD.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>427</xmin>
+          <ymin>195</ymin>
+          <xmax>661</xmax>
+          <ymax>257</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>427</xmin>
+          <ymin>210</ymin>
+          <xmax>589</xmax>
+          <ymax>258</ymax>
+      </bndbox>
+  </object>
+</annotation>

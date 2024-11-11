@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_09_58_38_0016_1_3-XH.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>536</xmin>
+          <ymin>109</ymin>
+          <xmax>672</xmax>
+          <ymax>162</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TE</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>338</xmin>
+          <ymin>106</ymin>
+          <xmax>416</xmax>
+          <ymax>228</ymax>
+      </bndbox>
+  </object>
+</annotation>

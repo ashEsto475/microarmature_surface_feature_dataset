@@ -1,0 +1,26 @@
+<annotation>
+  <folder />
+  <filename>07_15_10_05_22_0020_6_0-GD_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>685</xmin>
+          <ymin>36</ymin>
+          <xmax>798</xmax>
+          <ymax>103</ymax>
+      </bndbox>
+  </object>
+</annotation>

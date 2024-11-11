@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_01_10_52_55_0076_6_1-TX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>497</xmin>
+          <ymin>110</ymin>
+          <xmax>782</xmax>
+          <ymax>261</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>514</xmin>
+          <ymin>137</ymin>
+          <xmax>737</xmax>
+          <ymax>258</ymax>
+      </bndbox>
+  </object>
+</annotation>

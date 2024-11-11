@@ -1,0 +1,26 @@
+<annotation>
+  <folder />
+  <filename>07_15_14_20_56_0006_5_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>449</xmin>
+          <ymin>195</ymin>
+          <xmax>623</xmax>
+          <ymax>257</ymax>
+      </bndbox>
+  </object>
+</annotation>

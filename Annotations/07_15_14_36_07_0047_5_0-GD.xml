@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_14_36_07_0047_5_0-GD.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>570</xmin>
+          <ymin>131</ymin>
+          <xmax>844</xmax>
+          <ymax>198</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>709</xmin>
+          <ymin>28</ymin>
+          <xmax>840</xmax>
+          <ymax>91</ymax>
+      </bndbox>
+  </object>
+</annotation>

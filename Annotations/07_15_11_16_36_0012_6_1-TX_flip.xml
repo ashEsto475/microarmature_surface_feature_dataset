@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_11_16_36_0012_6_1-TX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>706</xmin>
+          <ymin>122</ymin>
+          <xmax>850</xmax>
+          <ymax>190</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>518</xmin>
+          <ymin>181</ymin>
+          <xmax>644</xmax>
+          <ymax>243</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>511</xmin>
+          <ymin>193</ymin>
+          <xmax>630</xmax>
+          <ymax>246</ymax>
+      </bndbox>
+  </object>
+</annotation>

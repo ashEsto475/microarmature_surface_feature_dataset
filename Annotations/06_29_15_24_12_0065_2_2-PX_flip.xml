@@ -1,0 +1,26 @@
+<annotation>
+  <folder />
+  <filename>06_29_15_24_12_0065_2_2-PX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>486</xmin>
+          <ymin>150</ymin>
+          <xmax>722</xmax>
+          <ymax>223</ymax>
+      </bndbox>
+  </object>
+</annotation>

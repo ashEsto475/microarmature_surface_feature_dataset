@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_01_10_52_55_0026_5_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>510</xmin>
+          <ymin>98</ymin>
+          <xmax>831</xmax>
+          <ymax>230</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>508</xmin>
+          <ymin>112</ymin>
+          <xmax>792</xmax>
+          <ymax>231</ymax>
+      </bndbox>
+  </object>
+</annotation>

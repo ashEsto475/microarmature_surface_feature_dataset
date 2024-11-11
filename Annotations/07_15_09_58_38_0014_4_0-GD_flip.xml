@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>07_15_09_58_38_0014_4_0-GD_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>589</xmin>
+          <ymin>61</ymin>
+          <xmax>762</xmax>
+          <ymax>181</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>587</xmin>
+          <ymin>88</ymin>
+          <xmax>720</xmax>
+          <ymax>181</ymax>
+      </bndbox>
+  </object>
+</annotation>

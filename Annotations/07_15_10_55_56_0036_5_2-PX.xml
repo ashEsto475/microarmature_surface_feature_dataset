@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_10_55_56_0036_5_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>661</xmin>
+          <ymin>36</ymin>
+          <xmax>793</xmax>
+          <ymax>129</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TTCW</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>376</xmin>
+          <ymin>100</ymin>
+          <xmax>640</xmax>
+          <ymax>218</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>401</xmin>
+          <ymin>122</ymin>
+          <xmax>594</xmax>
+          <ymax>219</ymax>
+      </bndbox>
+  </object>
+</annotation>

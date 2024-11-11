@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>07_15_15_02_33_0026_4_1-TX_flip.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>563</xmin>
+          <ymin>118</ymin>
+          <xmax>706</xmax>
+          <ymax>168</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>739</xmin>
+          <ymin>43</ymin>
+          <xmax>842</xmax>
+          <ymax>112</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>495</xmin>
+          <ymin>155</ymin>
+          <xmax>641</xmax>
+          <ymax>225</ymax>
+      </bndbox>
+  </object>
+</annotation>

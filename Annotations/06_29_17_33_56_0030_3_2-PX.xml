@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>06_29_17_33_56_0030_3_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>731</xmin>
+          <ymin>44</ymin>
+          <xmax>825</xmax>
+          <ymax>108</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>495</xmin>
+          <ymin>94</ymin>
+          <xmax>741</xmax>
+          <ymax>223</ymax>
+      </bndbox>
+  </object>
+</annotation>

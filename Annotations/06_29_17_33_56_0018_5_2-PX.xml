@@ -1,0 +1,50 @@
+<annotation>
+  <folder />
+  <filename>06_29_17_33_56_0018_5_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>676</xmin>
+          <ymin>104</ymin>
+          <xmax>850</xmax>
+          <ymax>168</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>CL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>776</xmin>
+          <ymin>3</ymin>
+          <xmax>850</xmax>
+          <ymax>70</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>466</xmin>
+          <ymin>101</ymin>
+          <xmax>700</xmax>
+          <ymax>216</ymax>
+      </bndbox>
+  </object>
+</annotation>

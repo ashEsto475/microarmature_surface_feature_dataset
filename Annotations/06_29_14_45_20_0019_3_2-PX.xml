@@ -1,0 +1,38 @@
+<annotation>
+  <folder />
+  <filename>06_29_14_45_20_0019_3_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>588</xmin>
+          <ymin>126</ymin>
+          <xmax>799</xmax>
+          <ymax>165</ymax>
+      </bndbox>
+  </object>
+  <object>
+      <name>TS</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>528</xmin>
+          <ymin>192</ymin>
+          <xmax>677</xmax>
+          <ymax>242</ymax>
+      </bndbox>
+  </object>
+</annotation>

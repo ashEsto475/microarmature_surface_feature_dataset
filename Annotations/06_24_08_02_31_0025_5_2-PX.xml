@@ -1,0 +1,26 @@
+<annotation>
+  <folder />
+  <filename>06_24_08_02_31_0025_5_2-PX.jpg</filename>
+  <path />
+  <source>
+      <database>Unknown</database>
+  </source>
+  <size>
+      <width>850</width>
+      <height>350</height>
+      <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>DL</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+          <xmin>410</xmin>
+          <ymin>119</ymin>
+          <xmax>849</xmax>
+          <ymax>183</ymax>
+      </bndbox>
+  </object>
+</annotation>
